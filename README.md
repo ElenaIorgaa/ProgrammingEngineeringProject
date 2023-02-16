@@ -1,1 +1,1 @@
-Proiect ingineria programarii ( un mic quiz, scris in C# folosindu-ma de design patterns cum ar fi singleton) (anul 3 de facultate)
+Small project for programming engineering class (a small quiz in C#, it makes use of design patterns like singleton) (3rd year of university)
